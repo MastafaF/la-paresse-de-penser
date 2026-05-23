@@ -39,4 +39,4 @@ Written from inside the AI engine room. I work on Copilot at Microsoft — so I 
 
 [Mastafa Foufa](https://mastafafoufa.com) — Applied Science at Microsoft, evaluating LLMs at scale on Copilot. 11 AI patents (6 granted, 5 pending). Previously taught NLP & LLM architectures at EPITA Paris (2021–2023). Engineer, Télécom Paris · MSc Machine Learning, KTH Stockholm.
 
-[X](https://x.com/mastafahf) · [mastafafoufa.com](https://mastafafoufa.com) · [Google Scholar](https://scholar.google.com/citations?user=jA54ZlUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mastafa-foufa/)
+[X](https://x.com/mastafafoufa) · [mastafafoufa.com](https://mastafafoufa.com) · [Google Scholar](https://scholar.google.com/citations?user=jA54ZlUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mastafa-foufa/)
